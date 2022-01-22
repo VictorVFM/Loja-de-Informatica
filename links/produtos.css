@@ -1,0 +1,125 @@
+
+.nav{
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 20px;
+   
+}
+
+.nav >a{
+    padding: 0px 10px;
+    color: white;
+    margin: 0;
+   text-decoration: none;
+}
+#sublinhado{
+    border-bottom: 3px solid yellow;
+}
+.header{
+background-color: black;
+height: 60px;
+color: white;
+display: flex;
+
+}
+#h1header{
+color: white;
+font-family:Brush Script MT, Brush Script Std, cursive;
+font-size: 40px;
+padding-top: 0;
+background-color: transparent;
+}
+*{margin: 0;
+    padding: 0;
+}
+
+#perfil{
+width: 50px;
+height: 50px;}
+
+.divmae{
+    text-align: center;
+   margin: 0px;
+}
+.divmae2{
+    text-align: center;
+    margin: 0px;
+}
+.divfilha{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    width: 250px;
+    height:auto;
+    transition: 2.0;
+   
+    
+}
+.divfilha2{
+    background-color:green;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+   padding: 15px 54px;
+   position: relative;
+   cursor: pointer;
+   transition: ease 1.0s;
+   font-size: 30px;
+}
+.divfilha2:hover{
+    background-color: greenyellow;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+#borda{
+
+    width:250px;
+    height: 250;
+    border: 1px solid black;
+    position: relative;
+    
+}
+p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+span{
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: green;
+}
+small{
+    font-size:x-large;
+    color: green;
+}
+h2{
+    font-size: 30px;
+    color: #ff5510;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    font-size: 70px;
+    background-color: rgb(207, 205, 205);
+ 
+    text-align: center;
+    
+}
+#loja{
+    background-color: rgb(178, 217, 241);
+    align-items: center;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top:20px;
+}
+.carousel-inner> .carousel-item> img {
+    width: 640px;
+    height: 360px;
+  }

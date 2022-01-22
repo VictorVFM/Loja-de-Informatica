@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'fogo';
+    src: url(fonte/FIRESTARTER.TTF);
+}
+footer{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(65, 125, 236);
+    font-size: x-large;
+    margin-bottom: 0px;
+    padding-bottom: 200px;
+    
+}
+#footerlogosfilha{
+    text-align: center;
+    
+    
+}
+
+#footerlogosfilha2{
+    
+    margin-left: auto;
+    
+   
+   
+    
+}
+.footericon{
+    width:100px ;
+    height:100px ;
+    margin: 30px;
+    text-align: center;
+}
+.headericon2{
+    width:100px ;
+    height:100px ;
+    margin: 30px;
+    text-align: center;
+}
+#footerlogosmae{
+    display: flex;
+    text-align: center;
+    
+}
+#footerh2{
+    
+    text-align: center;
+    color: rgb(65, 125, 236);
+    
+    font-size: 36px;
+}
+#footerh1{
+    text-align: center;
+    color: white;
+    background-color: transparent;
+    font-family: 'fogo';
+    
+}
+#footerdiv{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 0px;
+    align-items: center;
+
+}
+#footerh3{
+    color: white;
+    text-align: center;
+    padding-bottom: 70px;
+    margin: 0px;
+    
+}
+#footerflame{
+    height: 60px;
+    padding-bottom:20px;
+    padding-left: 25px;
+}

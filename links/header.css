@@ -1,0 +1,34 @@
+.header{
+    background-color: black;
+    height: 60px;
+    color: white;
+    display: flex;
+ 
+    
+}
+ 
+.header > h1{
+    
+    align-items: center;
+    
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+  
+    
+    
+}
+#h1header{
+    color: white;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+    margin-top: 0;
+   
+}
+#imgheader{
+    height: 50px;
+    margin-top: 0px;
+    padding-left: 10px;
+    margin: 0;
+}
+ 

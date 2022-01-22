@@ -1,0 +1,154 @@
+
+*{
+    margin: 0;
+    
+}
+.nav{
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 20px;
+   
+}
+#sublinhado{
+    border-bottom: 3px solid yellow;
+}
+
+.nav >a{
+    padding: 0px 10px;
+    color: white;
+    margin: 0;
+    text-decoration: none;
+}
+#h1header{
+    color: white;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-size: 40px;
+}
+.header{
+background-color: black;
+height: 60px;
+color: white;
+display: flex;
+Box-shadow: 10px 10px 40px grey;
+}
+#perfil{
+    width: 50px;
+    height: 50px;}
+               
+#img2{
+    display: block;
+    margin-left:auto ;
+    margin-right: auto;
+}
+#p{
+   text-align: center;
+   padding: 0 450px;   
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 50;
+   padding-bottom: 320px;
+}
+ #p2{ padding:0;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40;
+    font-weight: bold;
+
+ }
+ #img{
+    background-color: rgb(178, 217, 241);
+     top: 0;
+     left: 0;
+ }
+ hr{
+     margin: auto;
+     height: 3px;
+     
+     background-color: black;
+ }
+ body{
+     margin: 0;
+ }
+ .duvidas{
+     
+text-align: center;
+border: 3px solid black;
+width: 70%;
+margin: auto;
+border-radius: 15px;
+font-style: justify;
+
+ }
+
+ .points{
+     padding: 0;
+     margin: 0;
+   
+    width: 100%;
+  
+ }
+
+
+#point1{top: 30% ;
+        left:80%;
+        position: absolute;
+}
+
+
+#point2{top: 90% ;
+    left: 40%;
+    position: absolute;
+   
+    
+
+}
+
+
+#point3{top: 30%;
+    left: 25%;
+    position: absolute;
+}
+
+
+
+#point4{top: 55%;
+    left: 5%;
+    position: absolute;
+
+}
+
+.detalhes{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+    text-align: justify;
+    padding-bottom: 20px;
+    margin: 5px;
+}
+
+#cbroxo{position: absolute;
+top: 60%;
+left: 80%;
+width: 400px;
+
+
+}
+
+
+#imgmulher{
+    width: 400px;
+    top: 1px;;
+    position: relative;
+}
+body{
+    overflow-x: hidden;
+}
+
+#faq2{
+    display: inline;
+    background: black;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+

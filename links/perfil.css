@@ -1,0 +1,75 @@
+.nav{
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    margin-right: 20px;
+   
+}
+
+.nav >a{
+    padding: 0px 10px;
+    color: white;
+    margin: 0;
+    text-decoration: none;
+    
+}
+.header{
+background-color: black;
+height: 60px;
+color: white;
+display: flex;
+
+}
+#h1header{
+color: white;
+font-family:Brush Script MT, Brush Script Std, cursive;
+font-size: 40px;
+padding-top: 0;
+}
+*{margin: 0;
+    padding: 0;
+}
+
+#perfil{
+width: 50px;
+height: 50px;}
+
+
+.perfil2{
+    text-align: center;
+    
+}
+.filha{
+    display: inline-block;
+    margin: 45px;
+    
+    border: 2px solid black;
+   
+    width: 600px;
+    height: 90px;
+    align-items: center;
+    padding-bottom: 30px;
+    background-image: linear-gradient(rgb(168, 167, 167),white,rgb(163, 163, 163));
+    
+    
+    
+}
+.formulario{
+    display: block;
+    padding-bottom: 30px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+p{
+   font-size: 30px;
+    text-align: left;
+    top: 50%;
+    position: relative;
+}
+.perfilmae{
+    background-color: rgb(178, 217, 241);
+}
